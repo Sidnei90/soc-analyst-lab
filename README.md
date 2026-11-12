@@ -20,11 +20,13 @@ The project simulates entry-level SOC workflows in controlled environments.
 - Develop Python scripts for log analysis and automation.
 Study incident response methodologies.
 
-# Technologies
-- Parrot OS
-- Linux / Bash
-- Python
-- Git / GitHub
+# Technologies             Application
+- Linux/ Parrot OS         System administration and log analysis                
+- Python                   Security automation
+- Bash                     Linux administration
+- Git / GitHub             Version control and documentation
+- Wazuh                    SIEM/XDR learning environment
+- MITRE ATACK              Threat behavior classification
 
 # Project Structure
 
