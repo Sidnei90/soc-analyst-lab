@@ -60,8 +60,7 @@ Each module will include:
 2. Hands-on exercises.
 3. Practical evidence and screenshots when appropriate.
 4. Technical documentation.
-5. Results and lessons learned.
-6. 
+5. Results and lessons learned. 
 
 # Disclaimer
 
