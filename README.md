@@ -3,18 +3,22 @@
 Blue Team | Security Operations | Incident Response | Log Analysis
 
 # About the Project
-This repository documents my practical journey into Cybersecority through hands-on exercises and security experiments using Linux.
+SOC Analyst Lab is a hands-on cybersecurity learning project focused on developing practical skills for Security Operations Center (SOC) Level 1 activities.
 
-The main goal is o develop practical skills in system administration, security analysis, vulnerability awareness, and automation.
+This repository documents practical exercises, security event analysis, log monitoring, incident triage, incident reporting and Python automation.
+
+The project simulates entry-level SOC workflows in controlled environments.
 
 # Objectives
-- Understand Linux architecture and system administration.
-- Explore users, groups, and file permissions.
-- Identify running processes and system services.
-- Understand basic firewall configurations.
-- Analyze system logs.
-- Develop Python scripts for basic security auditing.
-- Apply security best prractices.
+- Understand SOC operations and security monitoring.
+- Analyze Linux system logs and security events.
+- Identify and classify suspicious activities.
+- Understand SIEM and EDR fundamentals.
+- Perform initial incident triage.
+- Document security incidents.
+- Understand incident escalation procedures (L1, L2 and L3).
+- Develop Python scripts for log analysis and automation.
+Study incident response methodologies.
 
 # Technologies
 - Parrot OS
