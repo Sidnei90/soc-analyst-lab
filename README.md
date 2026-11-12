@@ -30,29 +30,44 @@ Study incident response methodologies.
 
 # Project Structure
 
-linux-security-lab/
+soc-analyst-lab/
+├
 ├── docs/
 ├── scripts/
 ├── evidence/
-└── README.md
+├── README.md
+├
+└── (Additional modules under development)
 
 # Learning Roadmap
 
 - [ ] Repository creation
-- [ ] Linux fundamentals
-- [ ] File permissions and user management
-- [ ] Process and service analysis
-- [ ] Firewall fundamentals
-- [ ] System log analysis
-- [ ] Python security auditing
-- [ ] Security documentation
+- [ ] Linux system administration and permissions
+- [ ] Security log analysis
+- [ ] SOC fundamentals and monitoring workflows
+- [ ] Security alert classification and triage
+- [ ] Incident reporting and documentation
+- [ ] Incident response playbooks
+- [ ] Python log analysis automation
+- [ ] SIEM fundamentals and Wazuh laboratory
+- [ ] MITRE ATT&CK framework
+
+# Practical Approach
+
+Each module will include:
+
+1. Technical concepts.
+2. Hands-on exercises.
+3. Practical evidence and screenshots when appropriate.
+4. Technical documentation.
+5. Results and lessons learned.
 
 # Disclaimer
 
-This repository is intended for educational purposes and authorized security testing in controlled environments.
+This repository is intended for educational purposes only. All exercises are performed in controlled environments using authorized systems and simulated security events.
 
 # Author
 
 Sidnei Moura
 
-Systems Analysis and Development Graduate | Cybersecurity Enthusiast
+Systems Analysis and Development Graduate | Aspiring SOC Analyst | Cybersecurity and Blue Team Enthusiast
