@@ -1,5 +1,6 @@
-# Linux security lab
-Hands-on Linux security lab focused on system administration, security fundamentals and Python automation
+# SOC Analyst Lab
+
+Blue Team | Security Operations | Incident Response | Log Analysis
 
 # About the Project
 This repository documents my practical journey into Cybersecority through hands-on exercises and security experiments using Linux.
