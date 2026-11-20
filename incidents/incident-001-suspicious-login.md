@@ -4,7 +4,7 @@
 
 This incident involves suspicious login attempts detected on the administrator account, followed by a successful login.
 
-## Alert Information
+## Alert Information -
 
 - **Type:** Multiple Failed Login Attempts
 - **Host:** SRV-AD-01
